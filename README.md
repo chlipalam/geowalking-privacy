@@ -12,4 +12,4 @@ Location Data is used solely for app functionality.
 We do not share your data with third parties.
 3. Contact Us
 
-If you have any questions or concerns, please email us at chlipalam@gmail.com.
+If you have any questions or concerns, please email us at GeoWalkingTeam@gmail.com.
